@@ -137,19 +137,27 @@ control. Trace el diagrama esquemático.
  
 (a) 560 Ω y 1000 Ω
  
+ 
 (b) 47 Ω y 56 Ω
+ 
  
 (c) 1.5 kΩ, , 2.2 kΩ y 10 kΩ
  
+ 
 (d) 1.0 MΩ, 470 kΩ, , 1.0 kΩ 2.2 MΩ
  
+ 
 13. ¿Cuál es la resistencia total de doce resistores de 5.6 kÆ dispuestos en serie?
+ 
  
 15. Si en la figura 5-72 la resistencia total es de 17.4 kÆ, ¿cuál es el valor de R5?
  
  
+17. En la figura 5-71, encuentre la resistencia total si los tres circuitos están conectados en serie.
  
 
+ 
+ 
 #### <p align=center> SECCIÓN 5-4 Aplicación de la ley de Ohm
 
  
@@ -181,13 +189,27 @@ control. Trace el diagrama esquemático.
 ### CAPÍTULO 6: Circuitos en paralelo
 
 #### <p align=center> SECCIÓN 6-1 Resistores en paralelo
+
+1. Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería.
  
+3. Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66.
 
 #### <p align=center> SECCIÓN 6-2 Voltaje en un circuito en paralelo
 
+ 5. El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?
+ 
+ 7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del
+interruptor?
  
 #### <p align=center> SECCIÓN 6-3 Ley de las corrientes de Kirchhoff
  
+9. Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA,
+300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?
+ 
+11. En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4
+
+13. La resistencia total de un circuito en paralelo es de 25 Æ. ¿Cuál es la corriente a través de un resistor
+de 220 Æ que forma parte de este circuito si la corriente total es de 100 mA?
 
 #### <p align=center> SECCIÓN 6-4 Resistencia total en paralelo
  
