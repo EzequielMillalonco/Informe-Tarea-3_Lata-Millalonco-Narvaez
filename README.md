@@ -15,23 +15,19 @@ Específicos:
         3. 
         
 
-## 2. MARCO TEÓRICO
+## 2. MARCO TEÓRICO (RESUMEN)
 
 
 
-## 3. EXPLICACIÓN DEL PROCEDIMIENTO
+## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 
 
-## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
-
-
-
-## 5. VIDEO
+## 4. VIDEO
 
         Link del video ¨Informe de laboratorio 1¨ en donde....
 
-## 6. CONCLUSIONES
+## 5. CONCLUSIONES
 
         1.
         
@@ -41,4 +37,4 @@ Específicos:
         
 
 
-## 7. BIBLIOGRAFÍA
+## 6. BIBLIOGRAFÍA
