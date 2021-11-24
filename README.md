@@ -82,47 +82,47 @@ Por ejemplo, en la Figura 6-33 la corriente total hacia el nodo A quedaría dete
 
 ### CAPÍTULO 5: Circuitos en serie
 
-SECCIÓN 5-1 Resistores en serie
+#### <p align=center> SECCIÓN 5-1 Resistores en serie
 
-SECCIÓN 5-2 Corriente en un circuito en serie 
+#### <p align=center> SECCIÓN 5-2 Corriente en un circuito en serie 
 
-SECCIÓN 5-3 Resistencia total en serie 
+#### <p align=center> SECCIÓN 5-3 Resistencia total en serie 
 
-SECCIÓN 5-4
+#### <p align=center> SECCIÓN 5-4
 
-SECCIÓN 5-5
+#### <p align=center> SECCIÓN 5-5
 
-SECCIÓN 5-6
+#### <p align=center> SECCIÓN 5-6
 
-SECCIÓN 5-7
+#### <p align=center> SECCIÓN 5-7
 
-SECCIÓN 5-8
+#### <p align=center> SECCIÓN 5-8
 
-SECCIÓN 5-9
+#### <p align=center> SECCIÓN 5-9
 
-SECCIÓN 5-10
+#### <p align=center> SECCIÓN 5-10
 
 ### CAPÍTULO 6: Circuitos en paralelo
 
-SECCIÓN 6-1 Resistores en paralelo
+#### <p align=center> SECCIÓN 6-1 Resistores en paralelo
 
-SECCIÓN 6-2 Voltaje en un circuito en paralelo
+#### <p align=center> SECCIÓN 6-2 Voltaje en un circuito en paralelo
 
-SECCIÓN 6-3 Ley de las corrientes de Kirchhoff
+#### <p align=center> SECCIÓN 6-3 Ley de las corrientes de Kirchhoff
 
-SECCIÓN 6-4 
+#### <p align=center> SECCIÓN 6-4 Resistencia total en paralelo
 
-SECCIÓN 6-5 
+#### <p align=center> SECCIÓN 6-5 Aplicación de la ley de Ohm 
 
-SECCIÓN 6-6 
+#### <p align=center> SECCIÓN 6-6 Fuentes de corriente en paralelo
 
-SECCIÓN 6-7 
+#### <p align=center> SECCIÓN 6-7 Divisores de corriente
 
-SECCIÓN 6-8 
+#### <p align=center> SECCIÓN 6-8 Potencia en circuitos en paralelo
 
-SECCIÓN 6-9 
+#### <p align=center> SECCIÓN 6-9 Aplicaciones de circuitos en paralelo
 
-SECCIÓN 6-10 
+#### <p align=center> SECCIÓN 6-10 Localización de fallas
 
 ## 4. VIDEO
 
