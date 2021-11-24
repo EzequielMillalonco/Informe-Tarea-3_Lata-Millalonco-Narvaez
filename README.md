@@ -46,12 +46,18 @@ En un circuito en paralelo el voltaje es el mismo a través de cada rama (para c
 ![6-3](https://user-images.githubusercontent.com/93396250/143185492-0ae4029b-d516-4db1-b4c2-c834d9cdf90a.jpg)
 
         6–4 Resistencia total en paralelo
+        
+        
+![6-4](https://user-images.githubusercontent.com/93396250/143319729-e6bf7d26-5d61-4d58-8a10-ef90548861ec.jpg)
 
 
 
         6–5 Aplicación de la ley de Ohm
 
-Se puede usar la ley de Oh mpara determinar la corriente total, las corrientes de rama, el volataje, y la ressitencia en circuitos en paralelo. Por ejemplo (Figura ):
+Se puede usar la ley de Oh mpara determinar la corriente total, las corrientes de rama, el volataje, y la ressitencia en circuitos en paralelo:
+
+![image](https://user-images.githubusercontent.com/93396250/143319849-356ee18d-1b7c-47a2-8a60-ac5f5d9d2d5c.png)
+
 
         6–6 Fuentes de corriente en paralelo
 
@@ -59,15 +65,25 @@ La corriente total producida por fuentes de corriente en paralelo es igual a la 
 
 Por ejemplo, en la Figura 6-33 la corriente total hacia el nodo A quedaría determinada por: 
 
-![image](https://user-images.githubusercontent.com/93396250/143186991-d476383f-85b3-4936-a6d6-b3c6462aca59.png)
+![image](https://user-images.githubusercontent.com/93396250/143319908-374d88c5-ff63-42a8-9a00-281600471492.png)
+
 
 
         6–7 Divisores de corriente
 
+![6-7](https://user-images.githubusercontent.com/93396250/143320980-75b93626-6501-478d-ba44-a4b145b8a96f.jpg)
 
 
         6–8 Potencia en circuitos en paralelo
 
+La fórmula a continuación expresa la potencia total para cualquier cantidad de resistores dispuestos en paralelo:
+
+![image](https://user-images.githubusercontent.com/93396250/143321192-c7d124c6-f1ed-48ad-a2fe-37022c306593.png)
+
+
+Las siguientes fórmulas son usadas para calcular la potencia total, PT:
+
+![image](https://user-images.githubusercontent.com/93396250/143321183-7ecb088a-224d-480d-b519-661200d5aee0.png)
 
 
         6–9 Aplicaciones de circuitos en paralelo
