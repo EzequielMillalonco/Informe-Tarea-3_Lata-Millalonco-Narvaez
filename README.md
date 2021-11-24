@@ -83,50 +83,86 @@ Por ejemplo, en la Figura 6-33 la corriente total hacia el nodo A quedaría dete
 ### CAPÍTULO 5: Circuitos en serie
 
 #### <p align=center> SECCIÓN 5-1 Resistores en serie
+ 
 
 #### <p align=center> SECCIÓN 5-2 Corriente en un circuito en serie 
+ 
 
 #### <p align=center> SECCIÓN 5-3 Resistencia total en serie 
 
-#### <p align=center> SECCIÓN 5-4
+ 
+#### <p align=center> SECCIÓN 5-4 Aplicación de la ley de Ohm
 
-#### <p align=center> SECCIÓN 5-5
+ 
+#### <p align=center> SECCIÓN 5-5 Fuentes de voltaje en serie
 
-#### <p align=center> SECCIÓN 5-6
+ 
+#### <p align=center> SECCIÓN 5-6 Ley del voltaje de Kirchhoff
+ 
 
-#### <p align=center> SECCIÓN 5-7
+#### <p align=center> SECCIÓN 5-7 Divisores de voltaje
+ 
 
-#### <p align=center> SECCIÓN 5-8
+#### <p align=center> SECCIÓN 5-8 Potencia en circuitos en serie
+ 
 
-#### <p align=center> SECCIÓN 5-9
+#### <p align=center> SECCIÓN 5-9 Mediciones de voltaje
+ 
 
-#### <p align=center> SECCIÓN 5-10
+#### <p align=center> SECCIÓN 5-10 Localización de fallas
 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 ### CAPÍTULO 6: Circuitos en paralelo
 
 #### <p align=center> SECCIÓN 6-1 Resistores en paralelo
+ 
 
 #### <p align=center> SECCIÓN 6-2 Voltaje en un circuito en paralelo
 
+ 
 #### <p align=center> SECCIÓN 6-3 Ley de las corrientes de Kirchhoff
+ 
 
 #### <p align=center> SECCIÓN 6-4 Resistencia total en paralelo
+ 
 
 #### <p align=center> SECCIÓN 6-5 Aplicación de la ley de Ohm 
 
+ 
 #### <p align=center> SECCIÓN 6-6 Fuentes de corriente en paralelo
 
+ 
 #### <p align=center> SECCIÓN 6-7 Divisores de corriente
 
+ 
 #### <p align=center> SECCIÓN 6-8 Potencia en circuitos en paralelo
 
+ 
 #### <p align=center> SECCIÓN 6-9 Aplicaciones de circuitos en paralelo
 
+ 
 #### <p align=center> SECCIÓN 6-10 Localización de fallas
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 ## 4. VIDEO
 
-        Link del video ¨Informe de laboratorio 1¨ en donde....
+        Link del video ¨Informe de Tarea 3¨ en donde se resuelven ejercicios de los capítulos 5 y 6 del libro ¨PRINCIPIOS DE CIRCUITOS ELÉCTRICOS¨
+ 
+ 
 
 ## 5. CONCLUSIONES
 
