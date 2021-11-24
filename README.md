@@ -1,18 +1,18 @@
-# Informe-Laboratorio-1
+# Informe-Tarea-3
 
 ## 1. OBJETIVOS
  
-General: 
+        General: 
 
-        Explicar y demostrar experimentalmente la Ley de Kirchhoff de Voltajes y la Ley de Kirchhoff de Corrientes.
+        
 
-Específicos: 
+        Específicos: 
  
-        1. 
+ 1. 
         
-        2.
+ 2.
         
-        3. 
+ 3. 
         
 
 ## 2. MARCO TEÓRICO (RESUMEN)
