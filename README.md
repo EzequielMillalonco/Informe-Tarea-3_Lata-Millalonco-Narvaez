@@ -108,32 +108,32 @@ En la práctica, sin embargo, es inevitable que el medidor afecte un poco el cir
 
 #### <p align=center> SECCIÓN 5-1 Resistores en serie
  
-1. Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B
+**1. Conecte en serie cada juego de resistores mostrado en la figura 5-67 entre los puntos A y B**
  
 ![5-1 1](https://user-images.githubusercontent.com/93396250/143324903-a3e07a87-e31a-4f2a-acfc-933881675b4c.jpg)
 
-3. Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito de la figura 5-68.
+**3. Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito de la figura 5-68.**
  
-5. En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la
-cara posterior.
+**5. En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la
+cara posterior.**
  
  
 
 #### <p align=center> SECCIÓN 5-2 Corriente en un circuito en serie 
  
-7. La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro localizado en el circuito?
+**7. La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro localizado en el circuito?**
  
  
-*9. Con baterías de 1.5 V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través
+**9. Con baterías de 1.5 V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través
 de cualquier lámpara, de dos lámparas en serie, o de tres lámparas en serie con un solo interruptor de
-control. Trace el diagrama esquemático.
+control. Trace el diagrama esquemático.**
  
 
  
 #### <p align=center> SECCIÓN 5-3 Resistencia total en serie 
 
   
-11. Encuentre la resistencia total de los siguientes grupos de resistores en serie:
+**11. Encuentre la resistencia total de los siguientes grupos de resistores en serie:**
  
 (a) 560 Ω y 1000 Ω
  
@@ -147,13 +147,13 @@ control. Trace el diagrama esquemático.
 (d) 1.0 MΩ, 470 kΩ, , 1.0 kΩ 2.2 MΩ
  
  
-13. ¿Cuál es la resistencia total de doce resistores de 5.6 kÆ dispuestos en serie?
+**13. ¿Cuál es la resistencia total de doce resistores de 5.6 kÆ dispuestos en serie?**
  
  
-15. Si en la figura 5-72 la resistencia total es de 17.4 kÆ, ¿cuál es el valor de R5?
+**15. Si en la figura 5-72 la resistencia total es de 17.4 kÆ, ¿cuál es el valor de R5?**
  
  
-17. En la figura 5-71, encuentre la resistencia total si los tres circuitos están conectados en serie.
+**17. En la figura 5-71, encuentre la resistencia total si los tres circuitos están conectados en serie.**
  
 
  
@@ -190,26 +190,26 @@ control. Trace el diagrama esquemático.
 
 #### <p align=center> SECCIÓN 6-1 Resistores en paralelo
 
-1. Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería.
+**1. Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería.**
  
-3. Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66.
+**3. Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66.**
 
 #### <p align=center> SECCIÓN 6-2 Voltaje en un circuito en paralelo
 
- 5. El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?
+**5. El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?**
  
- 7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del
-interruptor?
+**7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del
+interruptor?**
  
 #### <p align=center> SECCIÓN 6-3 Ley de las corrientes de Kirchhoff
  
-9. Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA,
-300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?
+**9. Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA,
+300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?**
  
-11. En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4
+**11. En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4**
 
-13. La resistencia total de un circuito en paralelo es de 25 Æ. ¿Cuál es la corriente a través de un resistor
-de 220 Æ que forma parte de este circuito si la corriente total es de 100 mA?
+**13. La resistencia total de un circuito en paralelo es de 25 Æ. ¿Cuál es la corriente a través de un resistor
+de 220 Æ que forma parte de este circuito si la corriente total es de 100 mA?**
 
 #### <p align=center> SECCIÓN 6-4 Resistencia total en paralelo
  
