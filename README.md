@@ -88,10 +88,18 @@ Las siguientes fórmulas son usadas para calcular la potencia total, PT:
 
         6–9 Aplicaciones de circuitos en paralelo
 
+Se utilizan circuitos en paralelo en la automotriz, en residencias, amperímetros analógicos, etc.
+
+*Efecto del amperímetro en un circuito:*
+
+En la práctica, sin embargo, es inevitable que el medidor afecte un poco el circuito porque su resistencia interna está conectada en serie con la resistencia del circuito. Sin embargo, en la mayoría de los casos, la resistencia interna del medidor es tan pequeña, comparada con la resistencia del circuito, que puede ser ignorada.Por ejemplo:
+
+![image](https://user-images.githubusercontent.com/93396250/143321624-fbd1f162-fd47-4f89-915c-6c76bc672c83.png)
 
 
         6–10 Localización de fallas
 
+![6-10](https://user-images.githubusercontent.com/93396250/143324477-4c54ec9d-a80d-41d0-b16c-72c7d6244cd5.jpg)
 
 
 ## 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
