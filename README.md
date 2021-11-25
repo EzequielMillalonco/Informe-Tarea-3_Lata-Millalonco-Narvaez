@@ -130,6 +130,9 @@ En la práctica, sin embargo, es inevitable que el medidor afecte un poco el cir
 **5. En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la
 cara posterior.**
  
+ ![image](https://user-images.githubusercontent.com/93396250/143500562-de292750-d7c7-438d-bcc3-7fd55ec5bd19.png)
+
+ 
         R1, R7, R8, Y R10 están en serie
         
         R2, R4,R6, Y R11 están es serie
