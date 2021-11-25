@@ -277,6 +277,9 @@ interruptor?**
  
 **11. En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4**
  
+ ![image](https://user-images.githubusercontent.com/93396250/143500712-3b848681-d20a-48b3-ac8e-669c1987ce17.png)
+
+ 
         Itotal= I1 + I2 + I3 + I4
         
         I4 = 5.03 mA - 1mA - 2.14 mA - o.470 mA ===> 1.42 mA
