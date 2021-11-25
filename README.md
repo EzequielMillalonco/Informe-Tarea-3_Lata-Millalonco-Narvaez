@@ -4,15 +4,15 @@
  
         General: 
 
-        
+        Analizar los capítulos 5 y 6 del libro ¨Principios de circuitos eléctricos¨ de Floyd, con el objetivo de entender el concepto y aplicación de circuitos en serie.
 
         Específicos: 
  
- 1. 
+ 1. Comprender la relación de un circuito en serie a través de los conceptos corriente, voltaje y resistencia.
         
- 2.
+ 2. Identificar: circuitos en serie, comprobando las leyes de voltajes y corrientes de Kirchoff y determinar el efecto de fuentes de voltaje y corriente conectadas en serie.
         
- 3. 
+ 3. Definir conceptos como: conexión en serie, analizar fuentes de potencia, voltaje, localización de fallas y mediciones en serie.
         
 
 ## 2. MARCO TEÓRICO (RESUMEN)
