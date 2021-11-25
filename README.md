@@ -224,8 +224,14 @@ control. Trace el diagrama esquemático.**
 #### <p align=center> SECCIÓN 6-1 Resistores en paralelo
 
 **1. Muestre cómo conectar los resistores de la figura 6-65(a) en paralelo entre las terminales de una batería.**
- 
+
+![6-1 1](https://user-images.githubusercontent.com/93396250/143359183-02a531a0-fe35-4488-8698-b730c70472a2.jpg)
+
+   
 **3. Identifique los grupos de resistores que están en paralelo en la tarjeta de circuito impreso de doble cara mostrada en la figura 6-66.**
+        
+   ![6-1 3](https://user-images.githubusercontent.com/93396250/143366024-08811a6a-6ad8-475a-9232-3dba076123fb.jpg)
+     
 
 #### <p align=center> SECCIÓN 6-2 Voltaje en un circuito en paralelo
 
