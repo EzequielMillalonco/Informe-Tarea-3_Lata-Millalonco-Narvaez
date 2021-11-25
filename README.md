@@ -238,24 +238,26 @@ control. Trace el diagrama esquemático.**
  
  Pt = 2 + 5 + 1 + 8 = 16 W de potencia total
  
- **3. Un circuito tiene un resistor de 100 Æ, uno de 330 Æ, y otro de 680 Æ en serie. A través del circuito circula una corriente de 1 A. ¿Cuál es la potencia total?**
+ **3. Un circuito tiene un resistor de 100 Ω, uno de 330 Ω, y otro de 680 Ω en serie. A través del circuito circula una corriente de 1 A. ¿Cuál es la potencia total?**
  
- Rt= R1 + R2 + R3 = 100 + 330 + 680 = 1.11 Æ
+ Rt= R1 + R2 + R3 = 100 + 330 + 680 = 1.11 Ω
  
- Pt I^2 * Rt = 1 (A) * 1.11 (kÆ) = 1.11 kW
+ Pt I^2 * Rt = 1 (A) * 1.11 (kΩ) = 1.11 kW
  
 
 #### <p align=center> SECCIÓN 5-9 Mediciones de voltaje
  
-
-#### <p align=center> SECCIÓN 5-10 Localización de fallas
-
+ **1. ¿Qué nombre recibe el punto de referencia en un circuito?**
  
+ Tierra de Referencia
  
+ **2.  Los voltajes en un circuito en general se refieren a tierra.**
  
+ Verdadero, por lo general se calcula las caidas de potencial en base a una tierra de referencia.
  
+ **3.  La caja o el chasis a menudo se utilizan como tierra de referencia.**
  
- 
+ Verdadero, ya que ayuda a tener un punto con diferencia de potencial cero.
  
  
 ### CAPÍTULO 6: Circuitos en paralelo
