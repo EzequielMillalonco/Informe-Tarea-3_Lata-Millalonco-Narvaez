@@ -114,6 +114,9 @@ En la práctica, sin embargo, es inevitable que el medidor afecte un poco el cir
 
 **3. Determine la resistencia nominal presente entre las puntas 1 y 8 del circuito de la figura 5-68.**
  
+        Rtotal en 1 a 8 = R13 + R7 + R14 + R16
+        
+ 
 **5. En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la
 cara posterior.**
  
