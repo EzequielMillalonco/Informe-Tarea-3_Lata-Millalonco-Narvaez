@@ -261,9 +261,31 @@ interruptor?**
 **9. Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA,
 300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?**
         
-        250 
+        250 + 300 + 800 = 1350 mA ===> 1.350 A 
  
 **11. En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4**
+ 
+        Itotal= I1 + I2 + I3 + I4
+        
+        I4 = 5.03 mA - 1mA - 2.14 mA - o.470 mA ===> 1.42 mA
+        
+        1ra malla = Vs - VR1 = 0
+        
+                Vs - (I1-I2)R1 = 0 ===> Vs - (1mA-2.14mA)* 47Ω
+                                     = Vs + 53.58
+                                  Vs = 53. 
+        
+        2da malla = -VR1 - VR2 = 0
+        
+                -(1mA*47Ω) - 
+        
+        3ra malla = -VR2 - VR3 = 0 
+        
+        4ta malla = -VR4 - VR4 = 0
+        
+        Vs = I1R1 + I2R2 + I3R3 + I4R4
+        
+        
 
 **13. La resistencia total de un circuito en paralelo es de 25 Æ. ¿Cuál es la corriente a través de un resistor
 de 220 Æ que forma parte de este circuito si la corriente total es de 100 mA?**
