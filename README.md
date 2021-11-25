@@ -237,13 +237,31 @@ control. Trace el diagrama esquemático.**
 
 **5. El voltaje de fuente en la figura 6-67 es de 100 V. ¿Cuánto voltaje lee cada uno de los medidores?**
  
+        Voltaje en un circuito en paralelo por lo tanto en voltaje es el mismo en cada uno de los medidores
+        
+        Respuesta: 100 V
+ 
 **7. ¿Cuál es el voltaje entre los extremos de cada resistor incluido en la figura 6-68 para cada posición del
 interruptor?**
+        
+        Posicion A:
+        
+        V1 = 15V ; V2 = 0 V; V3 = 0 V ; V4 = 15 V 
+        
+        Posicion B:
+        
+        V1 = 15V ; V2 = 0 V; V3 = 15 V ; V4 = 0 V 
+        
+        Posicion C:
+        
+        V1 = 15V ; V2 = 15 V; V3 = 0 V ; V4 = 0 V 
  
 #### <p align=center> SECCIÓN 6-3 Ley de las corrientes de Kirchhoff
  
 **9. Se leen las siguientes corrientes en la misma dirección en un circuito de tres ramas en paralelo: 250 mA,
 300 mA y 800 mA. ¿Cuál es el valor de la corriente que llega a la unión de las tres ramas?**
+        
+        250 
  
 **11. En el circuito de la figura 6-69, determine la resistencia en R2, R3 y R4**
 
