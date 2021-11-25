@@ -238,6 +238,9 @@ control. Trace el diagrama esquemático.**
         
    ![6-1 3](https://user-images.githubusercontent.com/93396250/143366024-08811a6a-6ad8-475a-9232-3dba076123fb.jpg)
      
+        R1, R2, R5, R9, R10, y R12 están en paralelo (morado).
+        R4, R6, R7, y R8 están en paralelo (naranja).
+        R3 y R11 están en paralelo (amarillo)
 
 #### <p align=center> SECCIÓN 6-2 Voltaje en un circuito en paralelo
 
