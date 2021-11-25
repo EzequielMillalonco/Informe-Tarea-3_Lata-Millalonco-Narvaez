@@ -211,8 +211,38 @@ control. Trace el diagrama esquemático.**
 
 #### <p align=center> SECCIÓN 5-7 Divisores de voltaje
  
+  **1 ¿Qué es un divisor de voltaje?**
+ 
+ Es una resistencia o un equipo resistivo, que funciona como divisor de voltaje, por donde el voltaje tiene una caida, llamado comunmente, perdida de potencial o voltaje.
+ 
+  **2. ¿Cuántos resistores puede haber en un circuito divisor de voltaje dispuesto en serie?**
+ 
+ Todos los resistores que sean necesarios.
+ 
+ ** 3. Escriba la fórmula general de los divisores de voltaje.**
+ 
+ Vx=(Rx/Rt)Vs
+ 
+ ** 4. Si dos resistores de igual valor se conectan en serie entre las terminales de una fuente de 10 V, ¿cuánto voltaje hay a través de cada resistor?**
+ 
+ A través de cada resistor circulan 5 V, es decir el 50% del voltaje de fuente.
+ 
 
 #### <p align=center> SECCIÓN 5-8 Potencia en circuitos en serie
+ 
+ **1. Si usted conoce la potencia presente en cada resistor dispuesto en un circuito en serie, ¿cómo puede calcular la potencia total?**
+ 
+ Se realiza una sumatoria de las potencias de cada resistencia.
+ 
+ **2. Los resistores de un circuito en serie disipan las siguientes potencias: 2 W, 5 W, 1 W, y 8 W. ¿Cuál es la potencia total presente en el circuito?**
+ 
+ Pt = 2 + 5 + 1 + 8 = 16 W de potencia total
+ 
+ **3. Un circuito tiene un resistor de 100 Æ, uno de 330 Æ, y otro de 680 Æ en serie. A través del circuito circula una corriente de 1 A. ¿Cuál es la potencia total?**
+ 
+ Rt= R1 + R2 + R3 = 100 + 330 + 680 = 1.11 Æ
+ 
+ Pt I^2 * Rt = 1 (A) * 1.11 (kÆ) = 1.11 kW
  
 
 #### <p align=center> SECCIÓN 5-9 Mediciones de voltaje
