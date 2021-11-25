@@ -269,26 +269,39 @@ interruptor?**
         
         I4 = 5.03 mA - 1mA - 2.14 mA - o.470 mA ===> 1.42 mA
         
-        1ra malla = Vs - VR1 = 0
+      
+        V1 = I1*R1 ===> 0.001A * 47 = 0.047 V
         
-                Vs - (I1-I2)R1 = 0 ===> Vs - (1mA-2.14mA)* 47Ω
-                                     = Vs + 53.58
-                                  Vs = 53. 
+        El voltaje es el mismo en todas las resistencias en paralelo:
         
-        2da malla = -VR1 - VR2 = 0
+                0.047 V = V1 = V2 = V3 = V4
         
-                -(1mA*47Ω) - 
+        Resistencia 2:
         
-        3ra malla = -VR2 - VR3 = 0 
+                R2 = V2/I2 ===> 0.047 / 0.00214 = 22 Ω
         
-        4ta malla = -VR4 - VR4 = 0
+        Resistencia 3: 
         
-        Vs = I1R1 + I2R2 + I3R3 + I4R4
+                R3 = V3/I3 ===> 0.047 / 0.000470 = 100 Ω
         
+        Reisstencia 4:
         
+                R4 = V4/I4 ===> 0.047 / 0.00142 = 33 Ω
 
-**13. La resistencia total de un circuito en paralelo es de 25 Æ. ¿Cuál es la corriente a través de un resistor
-de 220 Æ que forma parte de este circuito si la corriente total es de 100 mA?**
+**13. La resistencia total de un circuito en paralelo es de 25 Ω. ¿Cuál es la corriente a través de un resistor
+de 220 Ω que forma parte de este circuito si la corriente total es de 100 mA?**
+        
+        Rtotal = 25 Ω
+        
+        Rx = 220 Ω
+        
+        Itotal = 0.1 A
+        
+        I en mi resistor x = Vs / Rx   ; Vs = Itotal * Rtotal ===> 2.5 V
+        
+                           = 2.5 V / 220 Ω ===> 0.0114 A
+        
+        Corriente en el resistor x =  11.4 mA 
 
 #### <p align=center> SECCIÓN 6-4 Resistencia total en paralelo
  
