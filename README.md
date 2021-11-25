@@ -116,21 +116,31 @@ En la práctica, sin embargo, es inevitable que el medidor afecte un poco el cir
  
         Rtotal en 1 a 8 = R13 + R7 + R14 + R16
         
+        Definir los valores de las resistencias según sus colores
+        
+        Respuesta = 170 kΩ
+        
  
 **5. En la tarjeta de circuito impreso de doble cara mostrada en la figura 5-69, identifique cada grupo de resistores en serie. Observe que muchas de las interconexiones de la tarjeta van de la cara anterior a la
 cara posterior.**
  
- 
+        R1, R7, R8, Y R10 están en serie
+        
+        R2, R4,R6, Y R11 están es serie
+        
+        R3, R5, R9 y R12 están en serie
 
 #### <p align=center> SECCIÓN 5-2 Corriente en un circuito en serie 
  
 **7. La corriente suministrada por la fuente en la figura 5-70 es de 5 mA. ¿Cuánta corriente indica cada miliamperímetro localizado en el circuito?**
  
+        Como estamos tomando la corriente en un circuito en serie, la corriente sera la misma para todo el circuito, es decir, que sera de 5 mA.
  
 **9. Con baterías de 1.5 V, un interruptor, y tres lámparas, disponga un circuito para aplicar 4.5 V a través
 de cualquier lámpara, de dos lámparas en serie, o de tres lámparas en serie con un solo interruptor de
 control. Trace el diagrama esquemático.**
  
+![image](https://user-images.githubusercontent.com/93396250/143337956-b8fde680-680d-4f49-b44f-f30cd3be23ad.png)
 
  
 #### <p align=center> SECCIÓN 5-3 Resistencia total en serie 
