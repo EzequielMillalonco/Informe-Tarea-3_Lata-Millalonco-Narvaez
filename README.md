@@ -375,25 +375,6 @@ de 220 Ω que forma parte de este circuito si la corriente total es de 100 mA?**
  
  La resistencia de 220 kΩ es la que menor corriente tiene y la de 22 kΩ es la que mas corriente tiene.
  
- 
-
- 
-#### <p align=center> SECCIÓN 6-8 Potencia en circuitos en paralelo
-
- 
-#### <p align=center> SECCIÓN 6-9 Aplicaciones de circuitos en paralelo
-
- 
-#### <p align=center> SECCIÓN 6-10 Localización de fallas
- 
- 
- 
- 
- 
- 
- 
- 
-
 ## 4. VIDEO
 
         Link del video ¨Informe de Tarea 3¨ en donde se resuelven ejercicios de los capítulos 5 y 6 del libro ¨PRINCIPIOS DE CIRCUITOS ELÉCTRICOS¨
