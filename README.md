@@ -360,6 +360,22 @@ de 220 Ω que forma parte de este circuito si la corriente total es de 100 mA?**
 
  
 #### <p align=center> SECCIÓN 6-7 Divisores de corriente
+ 
+ **1. Escriba la fórmula general del divisor de corriente.**
+ 
+ Ix= (Rt/Rx)*It
+ 
+ **2. Escriba dos fórmulas especiales para calcular cada corriente de rama para un circuito de dos ramas.**
+ 
+ I1= (R2/(R1+R2))*It
+ 
+ I2= (R1/(R1+R2))*It
+ 
+ **3.  Un circuito tiene los siguientes resistores en paralelo con una fuente de voltaje: 220 kÆ, 100 kÆ, 82 kÆ, 47 kÆ y 22 kÆ. ¿Cuál resistor tiene más corriente a través de él? ¿Menos corriente?**
+ 
+ La resistencia de 220 kΩ es la que menor corriente tiene y la de 22 kΩ es la que mas corriente tiene.
+ 
+ 
 
  
 #### <p align=center> SECCIÓN 6-8 Potencia en circuitos en paralelo
