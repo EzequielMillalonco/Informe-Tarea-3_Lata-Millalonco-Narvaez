@@ -443,39 +443,57 @@ La potencia sera la misma para las 3 resistores
  
 #### <p align=center> SECCIÓN 5-7 Divisores de voltaje
  
-**37. ¿Qué es un divisor de voltaje?**
+**37. La resistencia total de un circuito es de 560 Æ. ¿Qué porcentaje del voltaje total aparece a través de unresistor de 27 Æ que forma parte de la resistencia total en serie **
  
-        Es una resistencia o un equipo resistivo, que funciona como divisor de voltaje, 
-        por donde el voltaje tiene una caida, llamado comunmente, perdida de potencial o voltaje.
+ Vx=(Rx/Rt)Vs = 0.48 Vs = 4.8 %
  
-**39. ¿Cuántos resistores puede haber en un circuito divisor de voltaje dispuesto en serie?**
+ ![Screenshot 2021-11-26 070308](https://user-images.githubusercontent.com/93826527/143578245-024a3976-291c-4ac1-8223-f2a3e5535e64.png)
+
+
  
-        Todos los resistores que sean necesarios.
+**39. Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura**
+ 
+ Rt= 156 Ω
+ 
+ Vx=(Rx/Rt)Vs = 4.3 V
+ 
  
 **41. Escriba la fórmula general de los divisores de voltaje.**
  
-        Vx=(Rx/Rt)Vs
+        Vx=(Rx/Rt)Vs 
  
-**43. Si dos resistores de igual valor se conectan en serie entre las terminales de una fuente de 10 V, ¿cuánto voltaje hay a través de cada resistor?**
+**43. Si hay 10 V a través de R1 en la figura 5-88, ¿cuál es el voltaje en cada uno de los demás resistores?**
  
-        A través de cada resistor circulan 5 V, es decir el 50% del voltaje de fuente.
+ ![Screenshot 2021-11-26 070759](https://user-images.githubusercontent.com/93826527/143578810-d00b4c70-f1bc-4c42-9454-d52f6064388f.png)
+
+ Vx=(Rx/Rt)Vs
+ 
+ 10 = (5600 Ω / 17160 Ω)*Vs
+ 
+ Vs= 30.64 V
+ 
+ VR2=(Rx/Rt)Vs = 1.78 V
+ 
+ VR3=(Rx/Rt)Vs = 999.9 mV
+ 
+ VR4=(Rx/Rt)Vs = 17.85 V
  
 
 #### <p align=center> SECCIÓN 5-8 Potencia en circuitos en serie
  
-**45. Si usted conoce la potencia presente en cada resistor dispuesto en un circuito en serie, ¿cómo puede calcular la potencia total?**
+**45. ¿Cuál es la potencia total en el circuito de la figura 5-88? Use los resultados del problema 43.**
  
-        Se realiza una sumatoria de las potencias de cada resistencia.
+ Pt = Vs^2/Rt
+ 
+ Pt = 54.7 mW
 
 **47. Los resistores de un circuito en serie disipan las siguientes potencias: 2 W, 5 W, 1 W, y 8 W. ¿Cuál es la potencia total presente en el circuito?**
  
         Pt = 2 + 5 + 1 + 8 = 16 W de potencia total
  
-**49. Un circuito tiene un resistor de 100 Ω, uno de 330 Ω, y otro de 680 Ω en serie. A través del circuito circula una corriente de 1 A. ¿Cuál es la potencia total?**
+**49. 49. Encuentre RT en la figura 5-89.**
  
-        Rt= R1 + R2 + R3 = 100 + 330 + 680 = 1.11 Ω
- 
-        Pt I^2 * Rt = 1 (A) * 1.11 (kΩ) = 1.11 kW
+ ![Screenshot 2021-11-26 072005](https://user-images.githubusercontent.com/93826527/143580155-1334cff5-6f30-4845-afa1-771bd0b725de.png)
  
 
 #### <p align=center> SECCIÓN 5-9 Mediciones de voltaje
