@@ -383,11 +383,12 @@ de 220 Ω que forma parte de este circuito si la corriente total es de 100 mA?**
 
 ## 5. CONCLUSIONES
 
-        1.
-        
-        2.
-        
-        3.
+1. En conclusión, podemos decir que la relación entre voltaje, corriente y resistencia, se expresa mediante la ley de Ohm y dependiendo el caso son directamente, inversamente o 
+linealmente proporcional entre si, cuando tenemos circuitosa en serie y en paralelo respectivamente.
+
+2. Adicional a esto podemos determinar valores de I, V, R en circuitos,  por otra parte se sabe que para determinar la falla en un circuito debemos seguir la metodología **APM**, adicionalmente en el caso de circuitos con varios dispositivos de carga, podemos usar la división de medición.
+
+3. Finalmente se pudo concluir que la potencia es la variación en el consumo de energía en función del tiempo,  determinando así que toda intensidad de corriente que pasa por un circuito, elemento, objeto, entre otros; Produce calor en forma de energía.  
         
 
 
