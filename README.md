@@ -731,6 +731,21 @@ Es mejor que los focos esten conectados en paralelo porque si uno se quema, los 
         La resistencia de 220 kΩ es la que menor corriente tiene y la de 22 kΩ es la que mas corriente tiene.
  
  
+#### <p align=center> SECCIÓN 6-8 Divisores de corriente
+ 
+ **39. Determine la corriente en cada uno de los divisores de corriente mostrados en la figura 6-81.**
+ 
+ ![Screenshot 2021-11-26 073702](https://user-images.githubusercontent.com/93826527/143582138-ee75435d-b59c-4d41-8034-325e7ead2796.png)
+
+Ix = (Rt/Rx)*It
+ 
+ IR1 = (687.5 kΩ / 1 MΩ) * 10 μA
+ 
+ IR1 = 6.88 μA
+ 
+ IR2 = (687.5 kΩ / 2.2 MΩ) * 10 μA
+ 
+ IR1 = 3.12 μA
  
  
  
