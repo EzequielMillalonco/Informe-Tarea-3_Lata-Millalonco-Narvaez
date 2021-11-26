@@ -443,55 +443,60 @@ La potencia sera la misma para las 3 resistores
  
 #### <p align=center> SECCIÓN 5-7 Divisores de voltaje
  
-  **36. ¿Qué es un divisor de voltaje?**
+**37. ¿Qué es un divisor de voltaje?**
  
- Es una resistencia o un equipo resistivo, que funciona como divisor de voltaje, por donde el voltaje tiene una caida, llamado comunmente, perdida de potencial o voltaje.
+        Es una resistencia o un equipo resistivo, que funciona como divisor de voltaje, 
+        por donde el voltaje tiene una caida, llamado comunmente, perdida de potencial o voltaje.
  
-  **37. ¿Cuántos resistores puede haber en un circuito divisor de voltaje dispuesto en serie?**
+**39. ¿Cuántos resistores puede haber en un circuito divisor de voltaje dispuesto en serie?**
  
- Todos los resistores que sean necesarios.
+        Todos los resistores que sean necesarios.
  
- ** 38. Escriba la fórmula general de los divisores de voltaje.**
+**41. Escriba la fórmula general de los divisores de voltaje.**
  
- Vx=(Rx/Rt)Vs
+        Vx=(Rx/Rt)Vs
  
- ** 39. Si dos resistores de igual valor se conectan en serie entre las terminales de una fuente de 10 V, ¿cuánto voltaje hay a través de cada resistor?**
+**43. Si dos resistores de igual valor se conectan en serie entre las terminales de una fuente de 10 V, ¿cuánto voltaje hay a través de cada resistor?**
  
- A través de cada resistor circulan 5 V, es decir el 50% del voltaje de fuente.
+        A través de cada resistor circulan 5 V, es decir el 50% del voltaje de fuente.
  
 
 #### <p align=center> SECCIÓN 5-8 Potencia en circuitos en serie
  
- **40. Si usted conoce la potencia presente en cada resistor dispuesto en un circuito en serie, ¿cómo puede calcular la potencia total?**
+**45. Si usted conoce la potencia presente en cada resistor dispuesto en un circuito en serie, ¿cómo puede calcular la potencia total?**
  
- Se realiza una sumatoria de las potencias de cada resistencia.
+        Se realiza una sumatoria de las potencias de cada resistencia.
+
+**47. Los resistores de un circuito en serie disipan las siguientes potencias: 2 W, 5 W, 1 W, y 8 W. ¿Cuál es la potencia total presente en el circuito?**
  
- **41. Los resistores de un circuito en serie disipan las siguientes potencias: 2 W, 5 W, 1 W, y 8 W. ¿Cuál es la potencia total presente en el circuito?**
+        Pt = 2 + 5 + 1 + 8 = 16 W de potencia total
  
- Pt = 2 + 5 + 1 + 8 = 16 W de potencia total
+**49. Un circuito tiene un resistor de 100 Ω, uno de 330 Ω, y otro de 680 Ω en serie. A través del circuito circula una corriente de 1 A. ¿Cuál es la potencia total?**
  
- **42. Un circuito tiene un resistor de 100 Ω, uno de 330 Ω, y otro de 680 Ω en serie. A través del circuito circula una corriente de 1 A. ¿Cuál es la potencia total?**
+        Rt= R1 + R2 + R3 = 100 + 330 + 680 = 1.11 Ω
  
- Rt= R1 + R2 + R3 = 100 + 330 + 680 = 1.11 Ω
- 
- Pt I^2 * Rt = 1 (A) * 1.11 (kΩ) = 1.11 kW
+        Pt I^2 * Rt = 1 (A) * 1.11 (kΩ) = 1.11 kW
  
 
 #### <p align=center> SECCIÓN 5-9 Mediciones de voltaje
  
- **43. ¿Qué nombre recibe el punto de referencia en un circuito?**
+**51. ¿Qué nombre recibe el punto de referencia en un circuito?**
  
- Tierra de Referencia
+        Tierra de Referencia
  
- **44.  Los voltajes en un circuito en general se refieren a tierra.**
+**53.  Los voltajes en un circuito en general se refieren a tierra.**
  
- Verdadero, por lo general se calcula las caidas de potencial en base a una tierra de referencia.
+        Verdadero, por lo general se calcula las caidas de potencial en base a una tierra de referencia.
  
- **45.  La caja o el chasis a menudo se utilizan como tierra de referencia.**
+**55.  La caja o el chasis a menudo se utilizan como tierra de referencia.**
  
- Verdadero, ya que ayuda a tener un punto con diferencia de potencial cero.
+         Verdadero, ya que ayuda a tener un punto con diferencia de potencial cero.
  
- 
+
+        
+        
+        
+        
 ### CAPÍTULO 6: Circuitos en paralelo
 
 #### <p align=center> SECCIÓN 6-1 Resistores en paralelo
@@ -693,19 +698,19 @@ Es mejor que los focos esten conectados en paralelo porque si uno se quema, los 
  
 #### <p align=center> SECCIÓN 6-7 Divisores de corriente
  
- **32. Escriba la fórmula general del divisor de corriente.**
+**33. Escriba la fórmula general del divisor de corriente.**
  
- Ix= (Rt/Rx)*It
+        Ix= (Rt/Rx)*It
  
- **33. Escriba dos fórmulas especiales para calcular cada corriente de rama para un circuito de dos ramas.**
+**35. Escriba dos fórmulas especiales para calcular cada corriente de rama para un circuito de dos ramas.**
  
- I1= (R2/(R1+R2))*It
+        I1= (R2/(R1+R2))*It
  
- I2= (R1/(R1+R2))*It
+        I2= (R1/(R1+R2))*It
  
- **34.  Un circuito tiene los siguientes resistores en paralelo con una fuente de voltaje: 220 kÆ, 100 kÆ, 82 kÆ, 47 kÆ y 22 kÆ. ¿Cuál resistor tiene más corriente a través de él? ¿Menos corriente?**
+**37.  Un circuito tiene los siguientes resistores en paralelo con una fuente de voltaje: 220 kÆ, 100 kÆ, 82 kÆ, 47 kÆ y 22 kÆ. ¿Cuál resistor tiene más corriente a través de él? ¿Menos corriente?**
  
- La resistencia de 220 kΩ es la que menor corriente tiene y la de 22 kΩ es la que mas corriente tiene.
+        La resistencia de 220 kΩ es la que menor corriente tiene y la de 22 kΩ es la que mas corriente tiene.
  
  
  
