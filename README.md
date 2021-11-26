@@ -594,7 +594,7 @@ de 220 Ω que forma parte de este circuito si la corriente total es de 100 mA?**
 
 #### <p align=center> SECCIÓN 6-4 Resistencia total en paralelo
  
-*15. Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:*
+**15. Encuentre la resistencia total de cada uno de los siguientes grupos de resistores en paralelo:**
  
  a) 560 Ohms y 1000 Ohms
  
@@ -613,15 +613,15 @@ de 220 Ω que forma parte de este circuito si la corriente total es de 100 mA?**
  ![15_4](https://user-images.githubusercontent.com/93834732/143528541-7699cfd8-d35f-4337-a686-f53d9bfb7461.PNG)
  
 
-*17. ¿Cuál es la resistencia total de doce resistores de 6.8 Kilo Ohms dispuestos en paralelo?*
+**17. ¿Cuál es la resistencia total de doce resistores de 6.8 Kilo Ohms dispuestos en paralelo?**
  
 ![17](https://user-images.githubusercontent.com/93834732/143528740-ec2c36c1-c856-4a2b-804f-f753c9c22b03.PNG)
 
-*19. Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18*
+**19. Encuentre la resistencia total de todo el circuito en paralelo descrito en el problema 18**
  
  ![19](https://user-images.githubusercontent.com/93834732/143529150-39f3657c-172c-4f41-8051-a4ec51d89bf6.PNG)
 
-*21. ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?*
+**21. ¿Cuál es la resistencia total entre el punto A y tierra en la figura 6-72 en las siguientes condiciones?**
  
  ![21](https://user-images.githubusercontent.com/93834732/143529475-fdde68f5-e8ea-4cec-95d8-74389922b313.PNG)
 
@@ -644,13 +644,13 @@ de 220 Ω que forma parte de este circuito si la corriente total es de 100 mA?**
 
 #### <p align=center> SECCIÓN 6-5 Aplicación de la ley de Ohm 
  
-*23. Tres resistores de 33 Ohms están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente suministrada por la fuente?*
+**23. Tres resistores de 33 Ohms están conectados en paralelo con una fuente de 110 V. ¿Cuál es la corriente suministrada por la fuente?**
  
  ![23 1](https://user-images.githubusercontent.com/93834732/143534451-440e6f15-17b7-4573-8cce-f1a2ad4b4167.PNG)
 
  ![23 2](https://user-images.githubusercontent.com/93834732/143534580-d9c9170e-412e-4908-af8d-693fc555756d.PNG)
 
-*25. Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 Kilo Ohms, ¿cuál es la corriente a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?*
+**25. Muchos tipos de luces decorativas están conectados en paralelo. Si se conecta un juego de luces a una fuente de 110 V y si la resistencia en caliente del filamento de cada foco es de 2.2 Kilo Ohms, ¿cuál es la corriente a través de cada foco? ¿Por qué es mejor tener estos focos en paralelo y no en serie?**
  
  ![25 1](https://user-images.githubusercontent.com/93834732/143535206-f8396749-aab2-4ef8-99c2-bb57b072038a.PNG)
 
@@ -658,7 +658,7 @@ de 220 Ω que forma parte de este circuito si la corriente total es de 100 mA?**
 
 Es mejor que los focos esten conectados en paralelo porque si uno se quema, los demas seguiran funcionando, en un circuito en serie, si uno se quema, el circuito deja de funcionar.
  
-*27. ¿A qué valor mínimo se puede ajustar el reóstato de 100 Ohms mostrado en la figura 6-75 antes de que el fusible de 0.5 A se funda?*
+**27. ¿A qué valor mínimo se puede ajustar el reóstato de 100 Ohms mostrado en la figura 6-75 antes de que el fusible de 0.5 A se funda?**
  
  ![27](https://user-images.githubusercontent.com/93834732/143535471-77501614-eddd-4785-b7c7-34507afd95fa.PNG)
 
@@ -666,7 +666,7 @@ Es mejor que los focos esten conectados en paralelo porque si uno se quema, los 
 
  ![27_2](https://user-images.githubusercontent.com/93834732/143536111-6a47d934-391d-4108-b497-874d7f913066.PNG)
 
-*29. Encuentre los valores de las cantidades no especificadas en la figura 6-77.*
+**29. Encuentre los valores de las cantidades no especificadas en la figura 6-77.**
  
  ![29_1](https://user-images.githubusercontent.com/93834732/143536471-2a26046b-bcee-4061-bf3c-5de32f976c60.PNG)
  
@@ -683,7 +683,7 @@ Es mejor que los focos esten conectados en paralelo porque si uno se quema, los 
 
 #### <p align=center> SECCIÓN 6-6 Fuentes de corriente en paralelo
 
-*31. Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en la figura 6-79*
+**31. Determine la corriente a través del resistor para cada una de las posiciones de interruptor calibradas en la figura 6-79**
  
 ![31](https://user-images.githubusercontent.com/93834732/143538844-07539acb-466b-4880-9f4b-cc95f04174ce.PNG)
 
