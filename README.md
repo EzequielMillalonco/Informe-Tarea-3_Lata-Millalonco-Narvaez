@@ -753,7 +753,9 @@ Ix = (Rt/Rx)*It
 
         Link del video ¨Informe de Tarea 3¨ en donde se resuelven ejercicios de los capítulos 5 y 6 del libro ¨PRINCIPIOS DE CIRCUITOS ELÉCTRICOS¨
  
+  https://youtu.be/Kx42tZtz_yk
  
+[![Presentación Informe 1](https://img.youtube.com/vi/Kx42tZtz_yk/0.jpg)](https://www.youtube.com/watch?v=Kx42tZtz_yk)
 
 ## 5. CONCLUSIONES
 
